@@ -1,7 +1,7 @@
 name: Deploy to GitHub Pages
 
 permissions:
-  contents: read       # allow reading the repo
+  contents: write       # allow reading the repo
   pages: write         # allow publishing to gh-pages
   id-token: write      # required by some Actions
 
