@@ -17,6 +17,11 @@ body {
   line-height: 1.6;
 }
 
+img[alt="Logo"] {
+  width: 200px;
+  height: auto;
+}
+
 header {
   display: flex;
   align-items: center;
